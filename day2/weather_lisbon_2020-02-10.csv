@@ -1,14 +1,3 @@
-LAT;;;;;38.7167;38.7167;38.7167;38.7167;38.7167
-LON;;;;;-9.13333;-9.13333;-9.13333;-9.13333;-9.13333
-ASL;;;;;45.0000;45.0000;45.0000;45.0000;45.0000
-CITY;;;;;Lisbon;Lisbon;Lisbon;Lisbon;Lisbon
-DOMAIN;;;;;NEMS4;NEMS4;NEMS4;NEMS4;NEMS4
-LEVEL;;;;;2 m above gnd;2 m above gnd;sfc;10 m above gnd;10 m above gnd
-NAME;;;;;Temperature;Relative Humidity;Total Precipitation (high resolution);Wind Speed;Wind Direction
-UNIT;;;;;°C;%;mm;mph;°
-AGGREGATION;;;;;;;;;
-UTC_OFFSET;;;;;1;1;1;1;1
-
 Year;Month;Day;Hour;Minute;Temperature  [2 m above gnd];Relative Humidity  [2 m above gnd];Total Precipitation (high resolution)  [sfc];Wind Speed  [10 m above gnd];Wind Direction  [10 m above gnd]
 2020;01;27;00;00;11.67;88.00;0.00;6.45;213.69
 2020;01;27;01;00;11.54;89.00;0.00;6.58;215.31
