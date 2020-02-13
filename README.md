@@ -10,6 +10,9 @@ Agenda:
 - Introduction into ML, why it works
 - Pizzeria example, feature and target space
 - Linear Regression
+
+### Day 2
+- Logistic Regression
 - Numpy, Matplotlib, Pandas, Seaborn
 - Weather data sample
 - Kaggle
@@ -18,6 +21,8 @@ Agenda:
 - Linear regression example by hand (https://www.kaggle.com/tentotheminus9/linear-regression-from-scratch-gradient-descent)
 - Linear regression example by SciKit-Learn
 
+### Day 3
+TBD
 
 ### Moar links
 
